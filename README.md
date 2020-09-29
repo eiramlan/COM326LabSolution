@@ -13,4 +13,5 @@ Solutions will be posted here weekly (I will try to get it up by Friday every we
   + If that does not work, you can open the `.cpp` in your text editor  
 
 __NOTE:__ This is a sample solution - as mentioned (repeatly) in class, you can have many solutions to the problem at hand. Don't feel shy to explore your own solution. You can observe a lot by looking at the various logic applied to these solutions. You might infact apply your own logic, which could be more efficient that ones provided here.  
-__THERE IS NO SPOON__
+
+### THERE IS NO SPOON
