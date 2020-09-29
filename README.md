@@ -12,6 +12,6 @@ Solutions will be posted here weekly (I will try to get it up by Friday every we
   + Download zip and unzip, try to load the `.sln` file if you can using VStudio, if not possible (due to linking issue, you can open the individual project.
   + If that does not work, you can open the `.cpp` in your text editor  
 
-__NOTE:__ This is a sample solution - as mentioned (repeatly) in class, you can have many solutions to the problem at hand. Don't feel shy to explore your own solution. You can observe a lot by looking at the various logic applied to these solutions. You might infact apply your own logic, which could be more efficient that ones provided here.  
+__NOTE:__ These are sample solutions - as mentioned (repeatly) in class, you can have many solutions to the problem at hand. Don't feel shy to explore your own solution. You can observe a lot by looking at the various logic applied to these solutions. You might infact apply your own logic, which could be more efficient that ones provided here.  
 
 ### THERE IS NO SPOON
