@@ -17,6 +17,9 @@ Solutions will be posted here weekly (I will try to get it up by Friday every we
   + Keep the `Student` and `RPG` class handy as we are going to explore the solution further in future sessions.
   + Ideally, you should have these projects in your repository for easy access - pull directly to VStudio using github.
 
++ Week 4 All Solutions --
+  + Uploaded into two seperate folders
+  
 __NOTE:__ These are sample solutions - as mentioned (repeatly) in class, you can have many solutions to the problem at hand. Don't feel shy to explore your own solution. You can observe a lot by looking at the various logic applied to these solutions. You might infact apply your own logic, which could be more efficient that ones provided here.  
 
 ### THERE IS NO SPOON
