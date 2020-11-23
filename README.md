@@ -25,7 +25,14 @@ Solutions will be posted here weekly (I will try to get it up by Friday every we
 
 + Week 7 Solutions --
   + The usual stuffs
-  
+
++ Week 8 Solutions --
+  + Lab 1 - contains the Unit Testing module project, you should be able to add this folder into your Student Module project. The links for StudentModel is available here: https://github.com/eiramlan/StudentModule
+  + Lab 2 - contains the modified StudentModule, with advanced C++ challenges
+
++ Week 9 Solutions --  
+  + For week 9, remember that you are supposed to fork the solution to your repository, and work on your own RPG Battle System. You can use this solution as a base line. You are free to build on it, incorporating more logic to the various actions. Once you have completed your won RPG battle system, send me a message - I would love to check it out. Your solution might be selected as an example for COM326 class next semester
+
 __NOTE:__ These are sample solutions - as mentioned (repeatly) in class, you can have many solutions to the problem at hand. Don't feel shy to explore your own solution. You can observe a lot by looking at the various logic applied to these solutions. You might infact apply your own logic, which could be more efficient that ones provided here.  
 
 ### THERE IS NO SPOON
